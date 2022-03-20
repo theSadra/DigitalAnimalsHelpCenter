@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VWp+H26n3Mut7x2wxA5pfd2OEC4viQeVw2bU6DvqGGRtyNsWuWkhtRd6K9DjKSeRJ2k4DNjVX1LcjjXb66T7LA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\doros\\Desktop\\DigitalAnimalHelpCenter\\src\\DigitalAnimalsHelpCenter\\DigitalAnimalsHelpCenter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\doros\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512"
+  ],
+  "logs": []
+}
